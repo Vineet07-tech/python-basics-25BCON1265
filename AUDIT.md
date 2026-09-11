@@ -4,27 +4,27 @@
 
 | Claim | Verified? | Evidence |
 |---|---|---|
-| Six Python programs are included | Pending | Repository files |
-| Programs can be run with Python | Pending | Local execution |
-| Programs demonstrate basic Python concepts | Pending | Source code |
+| Six Python programs are included | Yes | Repository files |
+| Programs can be run with Python | Yes | Local execution |
+| Programs demonstrate basic Python concepts | Yes | Source code |
 
 ## AI Commit Message Comparison
 
 | Change | My Commit Message | AI Version |
 |---|---|---|
-| Factorial | feat: add factorial program | Pending |
-| Fibonacci | feat: add fibonacci program | Pending |
-| Structure | feat: add student structure | Pending |
-| Even/Odd | feat: add even odd checker | Pending |
-| Prime | feat: add prime checker | Pending |
-| Palindrome | feat: add palindrome checker | Pending |
+| Factorial | feat: add factorial program | No |
+| Fibonacci | feat: add fibonacci program | No |
+| Structure | feat: add student structure | No |
+| Even/Odd | feat: add even odd checker | No |
+| Prime | feat: add prime checker | No |
+| Palindrome | feat: add palindrome checker | No |
 
 ## Partner Review Notes
 
-- Reviewer: __________________
-- Date: __________________
-- One thing that was clear: __________________
-- One specific improvement suggested: __________________
+- Reviewer: Murtaza Falasiya
+- Date: 11/09/2026
+- One thing that was clear: The README clearly explains the six Python programs and how to run them.
+- One specific improvement suggested: Add sample input and output for each program so that users can understand the expected result more easily.
 
 ## Reflection
 
