@@ -29,3 +29,35 @@ python structure.py
 python even_odd.py
 python prime.py
 python palindrome.py
+
+## Testing
+
+The project uses Python's unittest framework for testing.
+
+### Running Tests
+
+Run the Session 8 tests with:
+
+```bash
+python -m unittest session\test_student_utils.py
+
+Test Coverage
+
+The tests cover:
+
+Normal cases
+Boundary cases
+Edge cases
+Incorrect behaviour identified from the specification
+
+The specification-based test suite contains 9 tests.
+
+RED → GREEN
+
+The tests were first run against the buggy implementation and produced 3 failures and 1 error.
+
+After fixing the identified bugs, all 9 tests passed successfully.
+
+AI-Generated Tests
+
+AI-generated tests were also reviewed and compared with the specification-based tests. Some AI-generated expected results reflected the behaviour of the buggy implementation, so the specification was used as the final reference for expected behaviour.
